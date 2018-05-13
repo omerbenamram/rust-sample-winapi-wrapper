@@ -1,0 +1,1 @@
+An example for idiomatically wrapping WinAPI structs in rust.
